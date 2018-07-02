@@ -386,7 +386,7 @@
 	{
 		overflow: hidden;
 		padding: 5em 0em;
-		border-top: 1px solid rgba(0,0,0,0.1);
+		/* border-top: 1px solid rgba(0,0,0,0.1); */
 	}
 	
 	#featured .align-left
@@ -436,7 +436,7 @@
 	{
 		overflow: hidden;
 		padding: 5em 0em;
-		border-top: rgba(0,0,0,0.1);
+		/* border-top: rgba(0,0,0,0.1); */
 	}
 
 	#mix .fa
@@ -464,7 +464,7 @@
 	{
 		overflow: hidden;
 		padding: 5em 0em;
-		border-top: rgba(0,0,0,0.1);
+		/* border-top: rgba(0,0,0,0.1); */
 	}
 
 	#sets .align-left
