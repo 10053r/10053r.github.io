@@ -314,7 +314,7 @@
 		padding: 15em 0em;
 		background: url(/img/banner.jpg) no-repeat center;
 		background-size: cover;
-		border-top: 1px solid rgba(0,0,0,0.08);
+		/* border-top: 1px solid rgba(0,0,0,0.08); */
 	}
 
 /*********************************************************************************/
@@ -360,7 +360,7 @@
 	{
 		overflow: hidden;
 		padding: 5em 0em;
-		border-top: 1px solid rgba(0,0,0,0.1);
+		/* border-top: 1px solid rgba(0,0,0,0.1); */
 	}
 	
 	#copyright p
@@ -493,7 +493,7 @@
 	{
 		overflow: hidden;
 		padding: 5em 0em;
-		border-top: rgba(0,0,0,0.1);				
+		/* border-top: rgba(0,0,0,0.1); */
 	}
 
 	#contact .fa
