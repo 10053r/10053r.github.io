@@ -18,8 +18,8 @@
 	src: url('/fonts/fontawesome-social-webfont.eot');
 	src: url('/fonts/fontawesome-social-webfont.eot?#iefix') format('embedded-opentype'),
 	     url('/fonts/fontawesome-social-webfont.woff') format('woff'),
-		 url('/fonts/fontawesome-social-webfont.ttf') format('truetype'),
-		 url('/fonts/fontawesome-social-webfont.svg#Font-Awesome-More') format('svg');
+	     url('/fonts/fontawesome-social-webfont.ttf') format('truetype'),
+	     url('/fonts/fontawesome-social-webfont.svg#Font-Awesome-More') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
