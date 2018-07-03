@@ -291,13 +291,13 @@
 		text-align: center;
 	}
 	
-		#menu li:before
-		{
-			content: "|";
-			padding: 1em 1.5em;
-			font-weight: 700;
-			color: rgba(0,0,0,.6);
-		}
+	#menu li:before
+	{
+		content: "|";
+		padding: 1em 1.5em;
+		font-weight: 600;
+		color: rgba(0,0,0,.6);
+	}
 	
 	#menu li a, #menu li span
 	{
