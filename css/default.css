@@ -244,6 +244,12 @@
 	{
 	}
 	
+	#logo alien
+	{
+		 background: url(/img/100.jpg) norepeat center;
+		 border-radius: 50%; 
+	}
+	
 	#logo a
 	{
 		text-decoration: none;
