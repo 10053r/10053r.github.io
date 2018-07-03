@@ -103,7 +103,8 @@
 	.image-logo
 	{
 		display: block;
-		margin: 0 0 2em 0;
+		width: 33.33333%;
+		margin: 0;
 	}
 	
 	.image-logo img
