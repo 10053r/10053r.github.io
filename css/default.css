@@ -244,16 +244,17 @@
 	{
 	}
 	
-	#logo alien
-	{
-		 background: url(/img/100.jpg) norepeat center;
-		 border-radius: 50%; 
-	}
-	
 	#logo a
 	{
 		text-decoration: none;
 		color: #31516A;
+	}
+	
+/* Alien */
+	#alien
+	{
+		 background: url(/img/100.jpg) norepeat center;
+		 border-radius: 50%; 
 	}
 
 /*********************************************************************************/
