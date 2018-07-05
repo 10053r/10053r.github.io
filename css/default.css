@@ -7,11 +7,11 @@
 	{
 		margin: 0px;
 		padding: 0px;
-		background: #FFF;
+		background: #eee;
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 12pt;
 		font-weight: 300;
-		color: #000000;
+		color: #555;
 	}
 	
 	
@@ -185,6 +185,11 @@
 	
 	.button:before
 	{
+	}
+	
+	.button:hover
+	{
+		background-color: #21415A;
 	}
 		
 /*********************************************************************************/
