@@ -10,7 +10,7 @@
 		background: #eee;
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 12pt;
-		font-weight: 400;
+		font-weight: 350;
 		color: #555;
 	}
 	
@@ -392,6 +392,7 @@
 		text-align: center;
 		text-transform: uppercase;
 		font-size: 0.80em;
+		font-weight: 350;
 		color: rgba(0,0,0,0.6);
 	}
 	
